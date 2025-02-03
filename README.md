@@ -1,6 +1,6 @@
 # CPSC-559 File Transfer Application Project
 
-This project is a File Transfer Application developed for CPSC 559
+This project is a Distributed File Transfer Application developed for CPSC 559 at University of Calgary in Winter 2023.
 
 ## Dependencies
 
